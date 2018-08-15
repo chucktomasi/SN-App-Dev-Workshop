@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_7bacd7fbdb331300a3bbeb41ca96197d">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <help/>
+            <hint/>
+            <label>Table Name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_7bacd7fbdb331300a3bbeb41ca96197d</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-15 16:10:18</sys_created_on>
+            <sys_id>a79e53ffdb331300a3bbeb41ca961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table Name</sys_name>
+            <sys_package display_value="Safety" source="x_snc_safety">02621fb353331300e477ddeeff7b126b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">02621fb353331300e477ddeeff7b126b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7bacd7fbdb331300a3bbeb41ca96197d_table_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-15 16:10:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

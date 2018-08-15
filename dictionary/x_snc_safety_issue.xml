@@ -6,5 +6,6 @@
                 <element inactive_on_update="false" label="Small" sequence="1" value="small"/>
             </choice>
         </element>
+        <element label="Inspector" max_length="32" name="inspector" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
     </element>
 </database>
