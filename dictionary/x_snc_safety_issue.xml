@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Issue" max_length="40" name="x_snc_safety_issue" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="big" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Big" sequence="0" value="big"/>
+                <element inactive_on_update="false" label="Small" sequence="1" value="small"/>
+            </choice>
+        </element>
+    </element>
+</database>

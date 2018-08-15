@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Safety">5662d7f353331300e477ddeeff7b12a3</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Issues</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_safety_issue</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_safety.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-15 15:23:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cbd35f77db331300a3bbeb41ca9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issues</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_snc_safety">02621fb353331300e477ddeeff7b126b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">02621fb353331300e477ddeeff7b126b</sys_scope>
+        <sys_update_name>sys_app_module_cbd35f77db331300a3bbeb41ca9619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-15 15:23:18</sys_updated_on>
+        <timeline_page/>
+        <title>Issues</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
